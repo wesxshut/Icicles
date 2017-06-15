@@ -33,7 +33,7 @@ public class Constant {
     public static final float HUD_FONT_REFERENCE_SCREEN_SIZE  = 480.0f;
     public static final float HUD_MARGIN            =    20.0f;
 
-    public static final String EASY_LABEL = "Cold";
+    public static final String EASY_LABEL = "TEEEESTE";
     public static final String MEDIUM_LABEL = "Colder";
     public static final String HARD_LABEL = "Coldest";
 
